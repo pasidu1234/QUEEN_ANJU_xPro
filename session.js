@@ -1,4 +1,4 @@
-//══════════════════════════════════════════════════════════════════════════════════════════════════════//
+i//══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
 //                                   𝗤𝗨𝗘𝗘𝗡-𝗔𝗡𝗝𝗨 𝗫ᴾᴿᴼ 𝐁𝐎𝐓                                               //
 //                                                                                                      //
@@ -40,6 +40,6 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "Your session id here",
+SESSION_ID: process.env.SESSION_ID || "ANJU-XPRO~OB9iiIrK#I2EUZWyaNuxbhQcrzK7MeXik8FdbRhyAkuESmOsS2qs",
 PORT: process.env.PORT || "8000"
 };
